@@ -2,7 +2,12 @@
 
 #### Este é o meu cantinho aqui no GitHub, onde compartilho minha jornada de aprendizado e projetos. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso. Seja muito bem-vindo(a)!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarlanDuarte&show_icons=true&theme=synthwave)
+<div style="desplay: inline-block">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DarlanDuarte&show_icons=true&theme=synthwave" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanDuarte&layout=compact&theme=synthwave" />
+</div>
+
+
 
 ## Tecnologias que uso no meu dia:
 <div style="display: inline_block">
