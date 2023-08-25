@@ -35,9 +35,13 @@
 <img  align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img  align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=whit"/>
 
-</div><br/>
+</div>
 
-![Snake animation](https://github.com/DarlanDuarte/DarlanDuarte/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/DarlanDuarte/DarlanDuarte/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
